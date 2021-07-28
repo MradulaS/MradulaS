@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Professional, IBM India</h3>
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/121/12113.gif"  width="300" height="300"/>
+<img src="https://giffiles.alphacoders.com/121/12113.gif"  width="400" height="350"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulas&label=Profile%20views&color=0e75b6&style=flat" alt="mradulas" /> </p>
