@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mradula Singh</h1>
-<h3 align="center">Data Science professional, IBM India</h3>
+<h3 align="center">Data Science Professional, IBM India</h3>
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="300" height="300"/>
